@@ -1,5 +1,6 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="<img width="893" height="796" alt="image" src="https://github.com/user-attachments/assets/7e2ca707-cee2-4889-a819-9459b322fb98" />
+<img width="1200" height="475" alt="GHBanner" src="<img width="893" height="796" alt="display" src="https://github.com/user-attachments/assets/430da285-7a48-4b74-9f5f-df2a2143a02d" />
+" />
 " />
 
 # From 'Vibe-Code' Prototype to Production-Ready SaaS UI
