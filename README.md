@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800" src="https://placehold.co/800x500/fafafa/18181b?text=Onboarding+Wizard+Preview&font=inter" alt="SaaS Onboarding Component Preview" />
+  <img width="800" src="Display.PNG" alt="SaaS Onboarding Component Preview" />
 </div>
 
 # Onboarding Wizard
