@@ -1,6 +1,6 @@
 ## Preview
 
-![Onboarding Wizard](./Display.PNG)
+![Onboarding Wizard](./display.PNG)
 
 # Onboarding Wizard
 
