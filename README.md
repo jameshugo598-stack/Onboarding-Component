@@ -33,12 +33,10 @@ I am currently engineering the rest of the SaaS kit. These components will be ad
 
 **Want the full $30 kit (Dashboard, Settings, Billing, etc.)?**
 I’m dropping the full Gumroad link next week. 
-[**Click here to follow the progress on Dribbble / 21st.dev**](#) 
-[**Get notified when the $30 Kit drops**](#) 
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 **Prerequisites:** Node.js
 
