@@ -1,0 +1,5 @@
+{
+  "name": "Onboarding Wizard",
+  "description": "A stylish, multi-step onboarding flow with authentication options, role selection, and a profile summary.",
+  "requestFramePermissions": []
+}
