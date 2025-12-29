@@ -1,6 +1,6 @@
-<div align="center">
-  <img width="800" src="./display.png" alt="Onboarding Wizard Screenshot" />
-</div>
+## Preview
+
+![Onboarding Wizard](./Display.PNG)
 
 # Onboarding Wizard
 
