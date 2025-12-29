@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800" src="Display.PNG" alt="SaaS Onboarding Component Preview" />
+  <img width="800" src="./display.png" alt="Onboarding Wizard Screenshot" />
 </div>
 
 # Onboarding Wizard
