@@ -1,48 +1,28 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="<img width="893" height="796" alt="display" src="https://github.com/user-attachments/assets/430da285-7a48-4b74-9f5f-df2a2143a02d" />
-" />
-" />
-
-# From 'Vibe-Code' Prototype to Production-Ready SaaS UI
-### An open-source study in high-converting React components.
+  <img width="800" alt="SaaS Onboarding Component Preview" src="./assets/onboarding-preview.png" />
 </div>
 
-## The Narrative
-I spent 4 hours "vibe coding" a SaaS UI in Google AI Studio. It looked like
- a $100M unicorn in 10 minutes, but under the hood, it was a mess of nested divs. 
+# Onboarding Wizard
 
-**This repo is the result of the rebuild.** 
+A stylish, multi-step onboarding flow with authentication options, role selection, and a profile summary.
 
-I took the "vibe" and engineered it into production-ready code, applying a 7-step conversion framework used by high-revenue SaaS businesses.
+## Features
 
----
+- **Multi-step Wizard**: Smooth transitions between steps.
+- **Authentication**: Options for GitHub, Google, and Email/Password.
+- **Role Selection**: Customize experience based on user role (Developer, Designer, etc.).
+- **Responsive Design**: Built with Tailwind CSS for mobile and desktop.
+- **Animations**: Fluid enter/exit animations using CSS transitions.
 
-## What’s Inside (Current: Onboarding Flow)
-This repo contains a high-converting **Onboarding Component** built with:
-- **React + Tailwind CSS** (Clean, atomic structure)
-- **Framer Motion** (For that "Apple Store" polish)
-- **Zod Validation** (Because production apps need real data handling)
-- **Conversion Psychology** (No distractions, single-focused CTA)
+## Tech Stack
 
----
+- React
+- Tailwind CSS
+- Lucide React (Icons)
+- TypeScript
 
-## Roadmap: The "Ultimate SaaS UI Kit"
-I am currently engineering the rest of the SaaS kit. These components will be added here as free open-source samples, or as part of the full **$30 UI Starter Kit**:
+## Setup
 
-- [x] **Onboarding Flow** (Available Now)
-- [ ] **High-Conversion Pricing Page** (Coming Soon)
-- [ ] **The "Apple-Style" Landing Page** (In Progress)
-- [ ] **Full SaaS Dashboard & Auth UI** (Final Release)
-
-**Want the full $30 kit (Dashboard, Settings, Billing, etc.)?**
-I’m dropping the full Gumroad link next week. 
-
----
-
-## Run Locally
-
-**Prerequisites:** Node.js
-
-1. **Clone & Install:**
-   ```bash
-   npm install
+1. Clone the repository
+2. Install dependencies
+3. Run the development server
