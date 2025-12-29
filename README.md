@@ -1,12 +1,14 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="<img width="893" height="796" alt="image" src="https://github.com/user-attachments/assets/7e2ca707-cee2-4889-a819-9459b322fb98" />
+" />
 
 # From 'Vibe-Code' Prototype to Production-Ready SaaS UI
 ### An open-source study in high-converting React components.
 </div>
 
 ## The Narrative
-I spent 4 hours "vibe coding" a SaaS UI in Google AI Studio. It looked like a $100M unicorn in 10 minutes, but under the hood, it was a mess of nested divs. 
+I spent 4 hours "vibe coding" a SaaS UI in Google AI Studio. It looked like
+ a $100M unicorn in 10 minutes, but under the hood, it was a mess of nested divs. 
 
 **This repo is the result of the rebuild.** 
 
